@@ -1,12 +1,26 @@
 {
   "name": "merkle-js",
   "version": "0.0.1",
-  "description": "Merkle tree implementation in JS",
+  "description": "A lightweight library using the native crypto for hash functions without any additional dependency. Generate Merkle tree from an array of data",
+  "homepage": "https://github.com/SusmithKrishnan/merkle-js#readme",
   "main": "merkle.js",
   "scripts": {
     "test": "npm test"
   },
-  "author": "",
-  "license": "GPL-3.0-or-later",
+  "author": {
+    "name": "Susmith Krishnan",
+    "url": "https://twitter.com/SusmithKrishnan"
+  },
+  "keywords": [
+    "merkle-js",
+    "merkle",
+    "merkle-tree",
+    "merkle-hash",
+    "merkle-root"
+  ],
+  "bugs": {
+    "url": "https://github.com/SusmithKrishnan/merkle-js/issues"
+  },
+  "license": "MIT",
   "dependencies": {}
 }
