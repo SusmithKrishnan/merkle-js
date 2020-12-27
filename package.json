@@ -1,6 +1,6 @@
 {
   "name": "merkle-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A lightweight library using the native crypto for hash functions without any additional dependency. Generate Merkle tree from an array of data",
   "homepage": "https://github.com/SusmithKrishnan/merkle-js#readme",
   "main": "merkle.js",
