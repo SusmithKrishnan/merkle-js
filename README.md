@@ -131,4 +131,4 @@ By default input values are converted and represented as Buffers as all hash ope
 <br />
 
 ## License
-**GPL v3**
+**MIT**
