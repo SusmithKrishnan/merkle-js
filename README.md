@@ -39,7 +39,7 @@ var tree = new Merkle(data);
 Get full Merkle tree hashes
 
 ```js
-> tree.getfullTree('hex');
+> tree.getFullTree('hex');
 [
   [
     '981669af653abb6b20e9aa74d5e29aef87c721243946b74d16e7559b682e7aab'

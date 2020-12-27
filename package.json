@@ -5,7 +5,7 @@
   "homepage": "https://github.com/SusmithKrishnan/merkle-js#readme",
   "main": "merkle.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest tests/"
   },
   "author": {
     "name": "Susmith Krishnan",
@@ -22,5 +22,8 @@
     "url": "https://github.com/SusmithKrishnan/merkle-js/issues"
   },
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }

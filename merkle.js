@@ -88,7 +88,7 @@ module.exports = class Merkle {
 		return crypto.createHash(algo).update(data).digest();
 	}
 
-	getfullTree(format) {
+	getFullTree(format) {
 		if (!format) return this.#tree;
 		var ntree = [];
 		for (let i = 0; i < this.#tree.length; i++) {
