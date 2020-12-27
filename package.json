@@ -1,6 +1,6 @@
 {
   "name": "merkle-js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Merkle tree implementation in JS",
   "main": "merkle.js",
   "scripts": {
