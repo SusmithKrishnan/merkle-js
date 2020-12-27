@@ -1,4 +1,6 @@
 # Merkle-JS
+[![NPM version](https://badge.fury.io/js/merkle-js.svg)](http://badge.fury.io/js/merkle-js)
+[![Build Status](https://travis-ci.org/SusmithKrishnan/merkle-js.svg?branch=master)](https://travis-ci.org/SusmithKrishnan/merkle-js)
 
 Merkle tree implementation in Javascript
 
