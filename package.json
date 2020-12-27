@@ -1,5 +1,5 @@
 {
-  "name": "merkle-tree",
+  "name": "merkle-js",
   "version": "0.0.0",
   "description": "Merkle tree implementation in JS",
   "main": "merkle.js",
@@ -7,5 +7,6 @@
     "test": "npm test"
   },
   "author": "",
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "dependencies": {}
 }
